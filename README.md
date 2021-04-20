@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @M4f3z
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mihai
+- 👀 I’m interested in in frontend development , windows , linux , backend and cloud technologys . 
+- 🌱 I’m currently learning React JS & Node JS 
+- 💞️ I’m looking to collaborate on future projects . 
+- 📫 How to reach me ferencz-mihai@protonmail.com
 
 <!---
 M4f3z/M4f3z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
