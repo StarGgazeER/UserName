@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihai
+- 👋 Hi, I’m @Mihai a frontend developer with Linux , windows , HTML5 , CSS3 , JAVASCRIPT & Python3 sills . 
 - 👀 I’m interested in in frontend development , windows , linux , backend and cloud technologys . 
 - 🌱 I’m currently learning React JS & Node JS 
 - 💞️ I’m looking to collaborate on future projects . 
