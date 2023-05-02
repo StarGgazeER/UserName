@@ -1,4 +1,4 @@
-<p align="center">Hi , I am Sniper a fullstack Developer and a DevOPs engineer <p/>
+<p align="center">Hey , I am Sniper a fullstack Developer and a DevOps engineer <p/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,docker,jquery, " />
