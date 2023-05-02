@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Sniper a frontend developer with Linux , windows , HTML5 , CSS3 , JAVASCRIPT & Python3 sills . 
-- 👀 I’m interested in in Frontend Development , Windows(servers) , Linux(servers) , Backend and Cloud technologys (AWS , Firebase & Azure (DevOps)) . 
-- 🌱 I’m currently learning React JS & Node JS 
-- 💞️ I’m looking to collaborate on future projects . 
+- 👋 Hi, I’m @Sniper a fullStack developer with Linux , Windows , HTML5 , CSS3 , JAVASCRIPT , Python , Java , Bootstarp , SpringBoot ,Typescript  .... skills . 
+- 👀 I’m interested in Developing and Contributing my Share where i can  
+- 🌱 I’m currently learning What i can get my hands on , foucused on AI tools at the moment and promt engineering 
+- 💞️ I’m looking to to be Happy i guess is the ultimate aim . 
 
 <!---
-M4f3z/M4f3z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WhiteSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
