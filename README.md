@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="centre">
   <a href="https://skillicons.dev">
 
     <img src="https://skillicons.dev/icons?i=kubernetes, linux, maven, mysql, ts" />
